@@ -11,13 +11,13 @@ This was created initially as a course requirement for DS200 course.
  
  ## Getting Started
  * Clone the repository
- '''
+ ```
      git clone https://github.com/bharatik-IISc/python_plots_1_0.git
- '''
+ ```
  * Either simply run all cells of Generating Plots .ipynb notebook or 
- '''
+ ```
      python GeneratingPlots.py
- '''
+ ```
  
  ## Data credits
     1) Central Pollution Control Board & Ministry of Environment and Forests, 2017, Location wise daily Ambient Air Quality of Delhi for the year 1988, Open Government Data Platform India, 24/04/2017,https://data.gov.in/resources/location-wise-daily-ambient-air-quality-delhi-year-1988. Published under Government Open Data Licence - India: https://data.gov.in/government-open-data-license-india
